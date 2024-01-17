@@ -1,4 +1,3 @@
-
 // Example array of names
 const names = ["John", "Jane", "Bob", "Alice", "Jerry"];
 
